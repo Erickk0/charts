@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  notification-service-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-10-03T23:52:17.903136+02:00"
+    description: A Helm chart for the notification-service
+    digest: fcd213150de1c865e26943e18142c175aa4e06cd695bcc511491aac31006842d
+    name: notification-service-chart
+    type: application
+    urls:
+    - https://erickk0.github.io/charts/notification-service-chart-0.1.0.tgz
+    version: 0.1.0
   order-service-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-02T23:25:39.107466+02:00"
+    created: "2025-10-03T23:52:17.903598+02:00"
     description: A Helm chart for the order-service
     digest: c870b5acae01a9edf1dea9acfd327ee2bf8da85f1307efa97bf272b8d0958153
     name: order-service-chart
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://erickk0.github.io/charts/order-service-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-02T23:25:39.10699+02:00"
+generated: "2025-10-03T23:52:17.902439+02:00"
