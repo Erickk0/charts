@@ -3,10 +3,10 @@ entries:
   microf-host-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-15T11:00:59.107141+02:00"
+    created: "2025-10-15T11:07:27.476329+02:00"
     description: A Helm chart for the microfontend host application where the microfrontends
       of the notification and order service are integrated.
-    digest: 97c15d58b92d51869182850893a302cc0b2902af124a7919f1f92286c6b26fe4
+    digest: b1f31aaa2c71a4474d00e785740d53f12968c44e4d27a5a50e5b4b35f72c846b
     name: microf-host-chart
     type: application
     urls:
@@ -15,7 +15,7 @@ entries:
   notification-service-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-15T11:00:59.107555+02:00"
+    created: "2025-10-15T11:07:27.476598+02:00"
     description: A Helm chart for the notification-service
     digest: fcd213150de1c865e26943e18142c175aa4e06cd695bcc511491aac31006842d
     name: notification-service-chart
@@ -26,7 +26,7 @@ entries:
   order-service-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-10-15T11:00:59.107942+02:00"
+    created: "2025-10-15T11:07:27.476851+02:00"
     description: A Helm chart for the order-service
     digest: c870b5acae01a9edf1dea9acfd327ee2bf8da85f1307efa97bf272b8d0958153
     name: order-service-chart
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://erickk0.github.io/charts/order-service-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-15T11:00:59.106139+02:00"
+generated: "2025-10-15T11:07:27.476+02:00"
